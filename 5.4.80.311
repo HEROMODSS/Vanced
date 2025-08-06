@@ -1,7 +1,7 @@
 {
   "credit": "MR. NoOB",
-  "enabled": false,
-  "title": "🚀 New Update is Live!",
+  "enabled": true,
+  "title": "🚀 Update Available!",
   "points": [
     "🔥 Faster performance and smoother UI",
     "🛠️ Bug fixes & stability improvements",
