@@ -1,12 +1,10 @@
 {
   "credit": "MR. NoOB",
-  "enabled": true,
-  "title": "🚀 Update Available!",
+  "enabled": false,
+  "title": "🔔 Update Available!",
   "points": [
     "🔥 Faster performance and smoother UI",
-    "🛠️ Bug fixes & stability improvements",
-    "✨ New features added as per user feedback",
-    "🔒 Improved security and privacy handling"
+    "🛠️ Bug fixes & stability improvements"
   ],
   "update_link": "https://t.me/heromodss",
   "cancel_text": "NOT NOW",
