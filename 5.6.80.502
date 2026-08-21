@@ -1,9 +1,9 @@
 {
   "enabled": true,
   "title": "Update Available!",
-  "points": [
-    "Current version is no longer supported",
-    "Download now for the best experience 👍"
+ "points": [
+    "Can’t wait to see you in the new version.",
+    "Click “Update Now” to download the latest version from our Telegram channel."
   ],
   "update_link": "https://t.me/heromodss/",
   "cancel_text": "NOT NOW",
