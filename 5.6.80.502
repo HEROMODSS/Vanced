@@ -1,0 +1,12 @@
+{
+  "enabled": true,
+  "title": "Update Available!",
+  "points": [
+    "Current version is no longer supported",
+    "Download now for the best experience 👍"
+  ],
+  "update_link": "https://t.me/heromodss/",
+  "cancel_text": "NOT NOW",
+  "update_text": "UPDATE NOW"
+}
+
